@@ -1,4 +1,4 @@
-package variables;
+package variablesYoperadores;
 
 public class Variables1 {
 	
