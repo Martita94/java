@@ -1,3 +1,4 @@
+package inicio;
 public class NombreEdad
 {
         public static void main(String args[])
