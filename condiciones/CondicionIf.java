@@ -52,9 +52,9 @@ public class CondicionIf {
 		//Pedir una cadena por teclado
 		
 		System.out.println("Por favor, introduce tu nombre:");
-		Scanner nombre = new Scanner(System.in);
+		
+        Scanner nombre = new Scanner(System.in);
         String cadena = nombre.nextLine(); //abre una conexión con el teclado
-        
         System.out.println(cadena);
 
 	}
