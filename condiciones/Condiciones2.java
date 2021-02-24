@@ -6,9 +6,9 @@ public class Condiciones2 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Escriba un número: ");
-		System.out.println("Escriba otro número: ");
-		System.out.println("Escriba otro número: ");
+		//System.out.println("Escriba un número: ");
+		//System.out.println("Escriba otro número: ");
+		//System.out.println("Escriba otro número: ");
 		
 		Scanner numero=new Scanner(System.in);
 		int n1;

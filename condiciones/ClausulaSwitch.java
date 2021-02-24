@@ -40,7 +40,7 @@ public class ClausulaSwitch {
 				break;
 			default:
 				System.out.println("Es una consonante");
-			}
+			}numero.close();
 			
 	}
 	
